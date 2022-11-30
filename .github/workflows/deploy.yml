@@ -18,4 +18,4 @@ jobs:
         with:
           subscriptionId: 62ae5e06-4dae-43a5-9bd5-f99def894f4d
           resourceGroupName: Assignments
-          template: ./template/backendapp.json
+          template: ./template/sql.json
